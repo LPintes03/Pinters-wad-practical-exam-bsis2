@@ -50,7 +50,7 @@
         <button type="submit">Back</button>
     </form>
 
-    <script src="script.js"></script> <!-- Link to a JavaScript file if needed -->
+   
 </body>
 
 </html>
